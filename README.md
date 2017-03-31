@@ -32,7 +32,7 @@ you can edit file whit nano command:
 nano sudo.lua
 ```
 then
-press key 'ctrl+x' and 'y' for save.
+press key 'ctrl+x' and 'y' and 'enter' button for save.
 
 ### Then
 
