@@ -72,7 +72,7 @@ cd TabChi
 
 ## Instruction and commands 
 
-for see instruction and command, send /help method in your bot.
+for see instruction and command, send help method in your bot whit out '!' , '#' or '/' .
 
 ***
 
@@ -82,4 +82,4 @@ for see instruction and command, send /help method in your bot.
 ## [channel (tgMember)](https://t.me/tgMember)
 
 
-Enjoy Your tabchi Bot!
+Enjoy Your sinchi Bot!
